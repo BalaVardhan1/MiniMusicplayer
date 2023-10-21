@@ -1,4 +1,4 @@
 # MiniMusicplayer
 This is my first repo.
 <br>
-Author: Bala vardhan
+Author: M Bala vardhan
